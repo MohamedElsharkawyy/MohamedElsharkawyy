@@ -7,6 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
+- 📫 How to reach me **mhelsharkawyy@gmail.com**
 
 
 
@@ -33,7 +34,6 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/mohamed-el-sharkawy-2755b7254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@mohamed-el-sharkawy-2755b7254" height="30" width="40" /></a>
 <a href="https://twitter.com/MH_Elsharkawy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MH_Elsharkawy" height="30" width="40" /></a> 
-- 📫 How to reach me **mhelsharkawyy@gmail.com**
 </div>
 <br>
 <div align="center">
