@@ -6,8 +6,8 @@
 :telescope: I am committed to staying up to date with the latest technologies and trends in web development to ensure the best outcomes. <br>
 :seedling: I’m currently focusing on React and React Native. </p>
 You can reach me<br>
-📧  mail : => **mhelsharkawyy@gmail.com**<br>
-📱   Whatsapp : => **01000700163**
+📧  mail : => mhelsharkawyy@gmail.com<br>
+📱   Whatsapp : => 01000700163
 
 
 
