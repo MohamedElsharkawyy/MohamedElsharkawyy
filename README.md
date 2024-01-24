@@ -7,7 +7,7 @@
 :seedling: I’m currently focusing on React and React Native. </p>
 You can reach me<br>
 📧  mail : => **mhelsharkawyy@gmail.com**<br>
-📱   phone : => **01000700163**
+📱   Whatsapp : => **01000700163**
 
 
 
