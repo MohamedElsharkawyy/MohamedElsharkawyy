@@ -5,9 +5,9 @@
 :collision: I am highly motivated, organized and able to work well both independently and as part of a team. <br>
 :telescope: I am committed to staying up to date with the latest technologies and trends in web development to ensure the best outcomes. <br>
 :seedling: I’m currently focusing on React and React Native. </p>
-
-📧 You can reach me by mail : => **mhelsharkawyy@gmail.com**<br>
-📱 You can reach me by phone : => **01000700163**
+You can reach me<br>
+📧  mail : => **mhelsharkawyy@gmail.com**<br>
+📱   phone : => **01000700163**
 
 
 
