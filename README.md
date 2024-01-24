@@ -12,7 +12,6 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <h2 align="center">Tech Stack</h2>
 
