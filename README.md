@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsharkawy</h1>
-<h3 align="center">I'm Full Stack Developer  </h3>
-<h3 align="center">I'm From Egypt</h3>
-
 
 <p>:zap: I'm a passionate Front-End React Developer that skilled in developing interactive user interfaces. I am immersed in the fascinating world of software development, trying to improve my skills and push the boundaries. <br>
 :rocket: I believe in writing clean and structured code to ensure maximum compatibility and performance. <br>
