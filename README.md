@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsharkawy</h1>
 
-<p>:zap: I'm a passionate Front-End React Developer that skilled in developing interactive user interfaces. I am immersed in the fascinating world of software development, trying to improve my skills and push the boundaries. <br>
+<p>:zap: I'm a passionate Front-End Angular Developer that skilled in developing interactive user interfaces. I am immersed in the fascinating world of software development, trying to improve my skills and push the boundaries. <br>
 :rocket: I believe in writing clean and structured code to ensure maximum compatibility and performance. <br>
 :collision: I am highly motivated, organized and able to work well both independently and as part of a team. <br>
 :telescope: I am committed to staying up to date with the latest technologies and trends in web development to ensure the best outcomes. <br>
-:seedling: I’m currently focusing on React and React Native. </p>
 You can reach me<br>
 📧  mail :  mhelsharkawyy@gmail.com<br>
 📱   Whatsapp :  01000700163
